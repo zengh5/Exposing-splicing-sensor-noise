@@ -1,7 +1,7 @@
 % Demo for "Exposing Image splicing with inconsistent sensor noise levels" 
 % (submitted to Multimedia Tools and Applications)
 % Last updated: 20190726 by Hui Zeng
-% Fig.5 (c), (d), (e) of the paper.
+% Fig.6 (c), (d) of the paper.
 clc,clear,close all,
 addpath('function');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
