@@ -1,7 +1,7 @@
 # Exposing-splicing-sensor-noise
 A noise-based image splicing localization method for the case that the source images are with distinct ISO settings
 
-Demo for repeat the result of 
+Demo for reproducing the result of 
 [1] "Exposing Image splicing with inconsistent sensor noise levels" (submitted to Multimedia Tools and Applications). 
 Homepage: http://www.escience.cn/people/Zenghui         
     Contact: zengh5@mail2.sysu.edu.cn
