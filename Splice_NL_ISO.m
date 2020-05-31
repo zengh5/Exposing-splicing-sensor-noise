@@ -6,7 +6,7 @@ clc,clear,close all,
 addpath('function');
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 B = 64;
-spliced = rgb2gray(imread('sample/1088_800.tif'));
+spliced = imread('sample/1088_800.tif');
 [M, N] = size(spliced);
 figure,imshow(spliced,'border','tight');
 I = double(spliced);
