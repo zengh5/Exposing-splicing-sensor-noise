@@ -2,7 +2,7 @@
 A noise-based image splicing localization method for the case that the source images are with distinct ISO settings
 
 Demo for reproducing the result of 
-[1] "Exposing Image splicing with inconsistent sensor noise levels" (submitted to Multimedia Tools and Applications). 
+[1] "Exposing Image splicing with inconsistent sensor noise levels" (accepted by Multimedia Tools and Applications, 2020). 
 Homepage: http://www.escience.cn/people/Zenghui         
     Contact: zengh5@mail2.sysu.edu.cn
     This work is an improved version of our previous work 
