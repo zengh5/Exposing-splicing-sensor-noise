@@ -12,7 +12,7 @@ Run Splice_NL_ISO.m to see the the comparison results. The code has been verifie
 In the caption of Fig. 5 in [1]  
 '... For display purpose, the noise levels in (a) and (b) are scaled to [0.4, 1.7], and the noise levels in (a) and (b) are scaled to [0.3, 2.3].'
        should be
-'... For display purpose, the noise levels in (a) and (b) are scaled to [0.4, 1.7], and the noise levels in (c) and (d) are scaled to [0.3, 2.3].'
+'... For display purpose, the noise levels in (a) and (b) are scaled to [0.4, 1.7], and the noise levels in (c) and (d) are scaled to [0.3, 2.3].'  
 We apologized for our carelessness
 
 ## Disclaimer notice ##
