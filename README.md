@@ -11,7 +11,7 @@ Run Splice_NL_ISO.m to see the the comparison results. The code has been verifie
 # typos correction:
 In the caption of Fig. 1 in [1]  
 '... (left) A group of hikers from one ISO800 image is spliced into an ISO200 image.'
-       should be
+       should be  
 '... (left) A group of hikers from one ISO800 image is spliced into an ISO100 image.'  
 
 In the caption of Fig. 5 in [1]  
